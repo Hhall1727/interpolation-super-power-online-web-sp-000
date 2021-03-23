@@ -1,2 +1,2 @@
 # Write your #display_rainbow method here
-colors = ["red", "orange", "yellow", "green", "blue", "indego", "violet"]
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
